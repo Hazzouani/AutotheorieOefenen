@@ -220,7 +220,7 @@ test("video page lists every video in chapter order and is reachable from the me
   assert.match(appSource, /'practice', 'videos', 'exam'/);
   assert.match(appSource, /videos: renderVideos/);
   assert.match(fs.readFileSync(path.join(root, 'index.html'), 'utf8'), /<a class="nav-link" data-page="videos" href="#videos">Video's<\/a>/);
-  assert.match(fs.readFileSync(path.join(root, 'index.html'), 'utf8'), /<script src="videos\.js" defer><\/script>\s*<script src="script\.js"/);
+  assert.match(fs.readFileSync(path.join(root, 'index.html'), 'utf8'), /<script src="videos\.js" defer><\/script>\s*<script src="script\.js(?:[^"]*)"/);
 });
 
 test('video watch progress is validated and kept apart from practice progress', () => {
