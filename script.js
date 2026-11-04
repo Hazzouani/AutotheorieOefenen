@@ -541,7 +541,13 @@
   function saveVideoStore() {
     try { localStorage.setItem(VIDEO_STORAGE_KEY, JSON.stringify(videoStore)); } catch (_) { /* Kijkvoortgang opslaan is optioneel. */ }
   }
-  const videoPath = v => v.file.split('/').map(encodeURIComponent).join('/');
+  const videoPath = v => {
+    const path = v.file.split('/').map(encodeURIComponent).join('/');
+    const isGitHubPages = typeof location?.hostname === 'string' && location.hostname.toLowerCase() === 'hazzouani.github.io';
+    return isGitHubPages
+      ? `https://media.githubusercontent.com/media/Hazzouani/AutotheorieOefenen/refs/heads/main/${path}`
+      : path;
+  };
   const videoLabel = v => `${v.chapter}.${v.number}`;
   const isWatched = id => videoStore.watched.includes(id);
   const sumDuration = items => items.reduce((sum, v) => sum + (v.duration || 0), 0);
