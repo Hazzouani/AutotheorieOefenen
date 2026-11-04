@@ -1,0 +1,1304 @@
+[
+  {
+    "id": 1,
+    "image": "images/question-001.svg",
+    "alt": "Gelijkwaardig kruispunt zonder borden. De blauwe auto nadert van onderen en wil rechtdoor; een amberkleurige auto komt van rechts.",
+    "note": "Blauw noordwaarts x455; auto van rechts westwaarts y200. Geen voorrangstekens."
+  },
+  {
+    "id": 2,
+    "image": "images/question-002.svg",
+    "alt": "Twee verharde wegen kruisen elkaar. Een blauwe auto rijdt naar het kruispunt; van rechts nadert een fietser die rechtdoor wil.",
+    "note": "Fietser rijdt op de noordelijke helft westwaarts, niet op een los fietspad; gelijkwaardige aansluiting."
+  },
+  {
+    "id": 3,
+    "image": "images/question-003.svg",
+    "alt": "Een blauwe auto rijdt over een verharde buitenweg. Rechts sluit een onverharde weg aan, waaruit een amberkleurige auto nadert.",
+    "note": "T-aansluiting onverhard zonder doorlopend trottoir of uitritdrempel. Van rechts komt de andere auto."
+  },
+  {
+    "id": 4,
+    "image": "images/question-004.svg",
+    "alt": "Een blauwe auto nadert een kruispunt van onderen. Een tram nadert van links op rails die door de kruisende straat lopen.",
+    "note": "Tram rijdt oostwaarts op y300. Kruispunt bevat geen voorrangsborden of verkeerslichten."
+  },
+  {
+    "id": 5,
+    "image": "images/question-005.svg",
+    "alt": "De blauwe auto wil rechtsaf. Een voetganger loopt op het rechtertrottoir in dezelfde richting en wil de zijstraat rechtdoor oversteken.",
+    "note": "Blauwe bocht voert naar oostelijke rijstrook y300; voetganger blijft op dezelfde noordwaartse weg. Geen zebra of licht."
+  },
+  {
+    "id": 6,
+    "image": "images/question-006.svg",
+    "alt": "De blauwe auto nadert van onderen en wil linksaf. De tegemoetkomende amberkleurige auto wil rechtsaf dezelfde zijstraat in.",
+    "note": "Blauw noordwaarts, tegenligger zuidwaarts. Beide bochten eindigen westwaarts op de noordelijke helft van de zijstraat."
+  },
+  {
+    "id": 7,
+    "image": "images/question-007.svg",
+    "alt": "Een blauwe auto rijdt vanuit een inrit naar de straat. Een voetganger loopt over het doorlopende trottoir voor de inrit.",
+    "note": "Doorlopend trottoir duidelijk onderscheiden van particuliere verharding en openbare rijbaan."
+  },
+  {
+    "id": 8,
+    "image": "images/question-008.svg",
+    "alt": "De blauwe auto staat met zijn neus in een parkeervak en rijdt achteruit richting de rijroute. Daar nadert een amberkleurige auto van rechts.",
+    "note": "Blauwe auto wijst noord; achteruitpijl wijst zuid naar de rijroute. Parkeerterrein, geen straatkruispunt."
+  },
+  {
+    "id": 9,
+    "image": "images/question-009.svg",
+    "alt": "Binnen een bebouwde omgeving staat een autobus in een haltekom. De linker richtingaanwijzer brandt; de blauwe auto nadert van achteren.",
+    "note": "Noordwaartse halte rechts van rijbaan; bus geeft naar links aan. Geen voorrangantwoord afgebeeld."
+  },
+  {
+    "id": 10,
+    "image": "images/question-010.svg",
+    "alt": "Een blauwe auto nadert een zebrapad. Een voetganger staat rechts aan de rand van de oversteekplaats; er zijn geen verkeerslichten.",
+    "note": "Voetganger nog naast de zebra, op punt van oversteken. Auto blijft vóór de oversteek in de beginsituatie."
+  },
+  {
+    "id": 11,
+    "image": "images/question-011.svg",
+    "alt": "Een blauwe auto nadert een persoon met een witte stok met rode ringen die aan de rechterkant van de straat wil oversteken. Er ligt geen zebrapad.",
+    "note": "Witte stok en rode ringen zijn apart getekend; geen zebra, verkeerslicht of antwoordmarkering."
+  },
+  {
+    "id": 12,
+    "image": "images/question-012.svg",
+    "alt": "Een blauwe auto rijdt op een buitenweg in mist. Verderop vervagen de wegmarkeringen en een auto in de mist.",
+    "note": "Beperkt zicht zichtbaar door meerdere mistlagen; geen snelheid of stopafstand als antwoord aangegeven."
+  },
+  {
+    "id": 13,
+    "image": "images/question-013.svg",
+    "alt": "Een blauwe auto rijdt in een straat met huizen, stoepen en een plaatsnaambord. Er staat geen snelheidsbord.",
+    "note": "Bebouwde kom gegeven via plaatsnaambord en bebouwing; geen getal 50 in beeld."
+  },
+  {
+    "id": 14,
+    "image": "images/question-014.svg",
+    "alt": "Een blauwe personenauto rijdt over een gewone buitenweg met landbouwgrond en bomen. Er staan geen snelheids- of autowegborden.",
+    "note": "Gewone tweerichtingsweg buiten de kom; geen aanhanger of impliciete autosnelwegmarkering."
+  },
+  {
+    "id": 15,
+    "image": "images/question-015.svg",
+    "alt": "Een blauwe personenauto zonder aanhanger rijdt over een buitenweg met het autowegbord. Er staat geen lagere maximumsnelheid aangegeven.",
+    "note": "G3 toont wegtype, geen antwoordgetal. Blauwe auto op rechterhelft noordwaarts."
+  },
+  {
+    "id": 16,
+    "image": "images/question-016.svg",
+    "alt": "Een blauwe auto bevindt zich in een erf met klinkerbestrating, huizen, spelende kinderen, voetgangers en het erf-bord.",
+    "note": "Erf zonder gewone rijstrookmarkering; het getal 15 is niet afgebeeld."
+  },
+  {
+    "id": 17,
+    "image": "images/question-017.svg",
+    "alt": "Een blauwe auto met een aanhanger rijdt op een autosnelweg. Een bord geeft 100 aan; bij de aanhanger staat de toegestane maximummassa van 1.500 kilogram.",
+    "note": "Aanhanger achter noordwaartse auto; 100 is gegeven bord, 1.500 kg gegeven massa. Geen 90 zichtbaar."
+  },
+  {
+    "id": 18,
+    "image": "images/question-018.svg",
+    "alt": "Een vrijwel lege autosnelweg met drie doorgaande rijstroken en een afgescheiden vluchtstrook. De blauwe auto nadert over de middelste strook.",
+    "note": "Beginsituatie in middelste strook; geen pijl naar gewenste antwoordstrook. Rechterstrook zichtbaar vrij."
+  },
+  {
+    "id": 19,
+    "image": "images/question-019.svg",
+    "alt": "Op een gewone tweerichtingsweg rijdt een blauwe auto achter een witte auto. De middenstreep is onderbroken en er is verder vrij zicht.",
+    "note": "Geen inhaalpijl: welke zijde gebruikt moet worden is de vraag. Beide voertuigen noordwaarts op eigen rechterhelft."
+  },
+  {
+    "id": 20,
+    "image": "images/question-020.svg",
+    "alt": "Een witte auto staat links voorgesorteerd met de linker richtingaanwijzer aan. De blauwe auto nadert; rechts van de voorsorteerder is ruime rijbaan beschikbaar.",
+    "note": "Brede noordwaartse rijbaan; voorsorteerder naast de wegas. Geen fietsstrook, trottoir of pijl die de inhaalzijde voorschrijft."
+  },
+  {
+    "id": 21,
+    "image": "images/question-021.svg",
+    "alt": "Op een snelweg staan rijen auto’s. De rij rechts van de blauwe auto heeft grotere tussenruimten en rijdt voorbij de langzamer rijdende middelste rij.",
+    "note": "Alle rijstroken lopen in dezelfde richting. Verschil in filevoortgang gegeven via voertuigen en neutrale label, niet via toestemmingssymbool."
+  },
+  {
+    "id": 22,
+    "image": "images/question-022.svg",
+    "alt": "Voor de blauwe auto is het verkeerslicht groen. Direct na het kruispunt staat een file, waardoor er achter het kruispunt nauwelijks vrije ruimte is.",
+    "note": "Laatste fileauto eindigt bij noordrand van kruispunt; onvoldoende vrije lengte achter kruispunt. Geen stopantwoord getekend."
+  },
+  {
+    "id": 23,
+    "image": "images/question-023.svg",
+    "alt": "De blauwe auto nadert een spoorwegovergang met omhoogstaande slagbomen. Aan de overkant staat een korte file vlak naast het spoor.",
+    "note": "File direct voorbij spoor laat minder dan een autolengte vrij; slagbomen staan verticaal open."
+  },
+  {
+    "id": 24,
+    "image": "images/question-024.svg",
+    "alt": "Een blauwe auto nadert op ruime afstand een verkeerslicht dat geel brandt. Een stopstreep ligt vóór de kruisende weg.",
+    "note": "Afstand is schematisch, niet op schaal; voldoende stopmogelijkheid volgt uit vraagtekst. Geel licht duidelijk van rood en groen onderscheiden."
+  },
+  {
+    "id": 25,
+    "image": "images/question-025.svg",
+    "alt": "Een verkeersregelaar met reflecterende kleding en een opgestoken hand staat voor de blauwe auto op het kruispunt. Het verkeerslicht voor de auto is groen.",
+    "note": "Handgebaar en groen licht zijn beide gegeven feiten. Geen tekst die de rangorde of het antwoord uitlegt."
+  },
+  {
+    "id": 28,
+    "image": "images/question-028.svg",
+    "alt": "De blauwe auto rijdt op de rechterrijstrook en geeft links richting aan. Op de rijstrook ernaast rijdt een witte auto schuin voor hem.",
+    "note": "Rijstrookwisseling als voornemen, geen uitgevoerde manoeuvre of voorrangssuggestie."
+  },
+  {
+    "id": 29,
+    "image": "images/question-029.svg",
+    "alt": "Een blauwe auto rijdt naar rechts door een straat. Achter hem nadert een ambulance met blauwe zwaailichten en getekende geluidsgolven voor de sirene.",
+    "note": "Ambulance oostwaarts achter blauwe auto; blauwe lichten en sirene beide zichtbaar. Geen uitwijkroute of stopgebaar."
+  },
+  {
+    "id": 30,
+    "image": "images/question-030.svg",
+    "alt": "De blauwe auto staat langs de rechterkant van een straat, vlak bij het kruispunt. Een maatlijn tussen de voorzijde en het kruispunt is aangeduid met 2 meter.",
+    "note": "Maatlijn geeft uitsluitend de afstand uit de vraag. Geen parkeervak of verbodssymbool."
+  },
+  {
+    "id": 31,
+    "image": "images/question-031.svg",
+    "alt": "Een blauwe auto staat op de rijbaan naast een witte auto in een parkeerstrook. Aan de rechterkant staat een winkel met een pakketje bij de ingang.",
+    "note": "Blauwe auto werkelijk naast geparkeerde auto, niet in een eigen parkeervak; geen antwoordmarkering."
+  },
+  {
+    "id": 32,
+    "image": "images/question-032.svg",
+    "alt": "De blauwe auto bevindt zich direct naast een rood gemarkeerde fietsstrook aan de rechterzijde van de rijbaan. Verderop rijdt een fietser over de strook.",
+    "note": "Rode fietsstrook bevat fietssymbool en afscheiding; auto staat er direct naast, geen parkeerstrook ertussen."
+  },
+  {
+    "id": 33,
+    "image": "images/question-033.svg",
+    "alt": "Een blauwe auto staat langs de straat voor een brede inrit die naar een garage leidt. Het trottoir loopt herkenbaar door voor de inrit.",
+    "note": "Carrosserie blokkeert de inritopening; geen parkeerverbodsbord of antwoordtekst nodig."
+  },
+  {
+    "id": 34,
+    "image": "images/question-034.svg",
+    "alt": "Een blauwe auto is op een autosnelweg een afrit voorbijgereden. Rechts buigt de uitrijstrook af, met een driehoekig puntstuk tussen afrit en doorgaande rijbaan.",
+    "note": "Noordwaartse blauwe auto staat voorbij het aftakpunt; geen achteruitpijl of aanbevolen vervolgroute."
+  },
+  {
+    "id": 36,
+    "image": "images/question-036.svg",
+    "alt": "Een groot geel ruitvormig bord met witte rand naast een weg met een blauwe auto.",
+    "note": "B1: gele ruit, geen aanvullende voorrangsuitspraak in het beeld."
+  },
+  {
+    "id": 37,
+    "image": "images/question-037.svg",
+    "alt": "Een omgekeerd driehoekig bord met rode rand. Rechts nadert een blauwe auto een kruispunt met witte driehoeken op het wegdek.",
+    "note": "B6 bij de noordwaartse aanrijrichting; kruisend voertuig rijdt aan zijn rechterzijde."
+  },
+  {
+    "id": 38,
+    "image": "images/question-038.svg",
+    "alt": "Een rood achthoekig bord met het woord STOP. Rechts staat een blauwe auto voor een brede witte lijn bij een kruispunt.",
+    "note": "B7 met stopstreep, geen zichtbare wachttijd of antwoordindicatie."
+  },
+  {
+    "id": 39,
+    "image": "images/question-039.svg",
+    "alt": "Een rond wit bord met rode rand, zonder symbool of onderbord. Op de weg ernaast nadert een blauwe auto.",
+    "note": "C1 is leeg vanbinnen en heeft geen uitzonderingsonderbord."
+  },
+  {
+    "id": 40,
+    "image": "images/question-040.svg",
+    "alt": "Een rood rond bord met een witte horizontale balk. Een blauwe auto nadert vanaf de onderzijde een straat met dat bord.",
+    "note": "C2 staat tegenover de naderende bestuurder; geen auto rijdt het verbod al voorbij."
+  },
+  {
+    "id": 41,
+    "image": "images/question-041.svg",
+    "alt": "Een rond wit bord met rode rand en een zwart vrachtwagensymbool. Rechts is een straat met een blauwe personenauto te zien.",
+    "note": "Vrachtwagenpictogram getekend, geen bestelwagen of personenauto als symbool."
+  },
+  {
+    "id": 42,
+    "image": "images/question-042.svg",
+    "alt": "Een rond wit bord met rode rand en een zwarte motorfiets met bestuurder. Rechts loopt een rustige tweerichtingsweg.",
+    "note": "C11 heeft uitsluitend het motorfietspictogram, geen autopictogram."
+  },
+  {
+    "id": 43,
+    "image": "images/question-043.svg",
+    "alt": "Een rond wit bord met rode rand, een auto bovenin en een motorfiets eronder. Een blauwe auto nadert het bord.",
+    "note": "C12 bevat zowel auto als motorfiets. Geen uitgebeelde overtreding."
+  },
+  {
+    "id": 44,
+    "image": "images/question-044.svg",
+    "alt": "Een blauw rond bord met drie witte rondlopende pijlen. Rechts is een ronde rijbaan om een groen eiland zichtbaar.",
+    "note": "D1 geeft linksom rondgaande pijlen. Er zijn bewust geen voorrangsborden of haaientanden toegevoegd."
+  },
+  {
+    "id": 45,
+    "image": "images/question-045.svg",
+    "alt": "Een blauw rond bord met een witte schuin naar rechtsonder wijzende pijl. Op de weg staat een smalle verkeersheuvel.",
+    "note": "D2 pijl wijst rechtsonder; heuvel ligt middenin rijbaan."
+  },
+  {
+    "id": 46,
+    "image": "images/question-046.svg",
+    "alt": "Een blauw rond bord met één witte pijl naar boven. Rechts nadert een blauwe auto een kruising.",
+    "note": "D4 rechtuit; auto staat nog voor het kruispunt zonder richtingpijl op wegdek."
+  },
+  {
+    "id": 47,
+    "image": "images/question-047.svg",
+    "alt": "Een blauw rond bord met een gebogen witte pijl naar rechts. Rechts staat een blauwe auto op de aanrijweg van een kruispunt.",
+    "note": "D5 uitvoering rechtsaf; geen voertuigpositie na de manoeuvre."
+  },
+  {
+    "id": 48,
+    "image": "images/question-048.svg",
+    "alt": "Een blauw rond bord met witte pijlen naar boven en naar rechts. Een blauwe auto nadert een kruispunt.",
+    "note": "D6 heeft exact rechtdoor en rechtsaf, zoals gevraagd."
+  },
+  {
+    "id": 49,
+    "image": "images/question-049.svg",
+    "alt": "Een blauw rond bord met witte pijlen naar links en naar rechts. De aanrijweg rechts eindigt op een dwarsstraat.",
+    "note": "D7 links/rechts en een T-aansluiting ondersteunen dezelfde situatieschets."
+  },
+  {
+    "id": 50,
+    "image": "images/question-050.svg",
+    "alt": "Een blauw rond bord met rode rand en één rode diagonale streep. Het bord staat langs de rechterkant van een straat.",
+    "note": "E1 met één schuine streep, geen gele markering of onderbord."
+  },
+  {
+    "id": 51,
+    "image": "images/question-051.svg",
+    "alt": "Een blauw rond bord met rode rand en twee rode diagonale strepen. Naast de weg staat een rij gebouwen.",
+    "note": "E2 rood kruis is onderdeel van het echte bord, geen beoordelingsoverlay."
+  },
+  {
+    "id": 52,
+    "image": "images/question-052.svg",
+    "alt": "Een blauw rechthoekig bord met twee witte wegbanen en een witte dwarsbalk. Rechts ligt een brede weg met meerdere rijstroken.",
+    "note": "G1 herkenbaar als witte wegen met viaduct op blauw; geen snelheidsgetal toegevoegd."
+  },
+  {
+    "id": 53,
+    "image": "images/question-053.svg",
+    "alt": "Een blauw vierkant bord met de voorkant van een witte auto. Rechts loopt een weg met twee rijrichtingen.",
+    "note": "G3 witte auto op blauw; geen autosnelwegsymbool."
+  },
+  {
+    "id": 54,
+    "image": "images/question-054.svg",
+    "alt": "Een blauw vierkant bord met een huis, een klein persoon, een bal en een auto. Rechts staan woningen aan een smalle straat.",
+    "note": "G5 erf met wooncontext, maar geen parkeersuggestie of gemarkeerd correct parkeervak."
+  },
+  {
+    "id": 55,
+    "image": "images/question-055.svg",
+    "alt": "Een driehoekig bord met rode rand en twee zwarte lopende figuren van verschillende grootte. Rechts is een straat met een schoolgebouw.",
+    "note": "J21 twee kinderen; geen oversteekplaats of verplicht voetpad toegevoegd."
+  },
+  {
+    "id": 56,
+    "image": "images/question-056.svg",
+    "alt": "Een rond wit bord met rode rand en het zwarte getal 50. Een blauwe auto rijdt op de weg naast het bord.",
+    "note": "A1 gebruikt 50 als concreet zichtbaar getal; geen minimum- of adviesvorm."
+  },
+  {
+    "id": 57,
+    "image": "images/question-057.svg",
+    "alt": "Een rond wit bord met rode rand en twee autosymbolen, links rood en rechts zwart. Op de weg rijden een blauwe en een witte auto achter elkaar.",
+    "note": "F1 kleurenvolgorde rood links, zwart rechts. Auto blijft achter voorligger."
+  },
+  {
+    "id": 58,
+    "image": "images/question-058.svg",
+    "alt": "Een blauw rechthoekig bord met een zwart bussymbool in een wit vlak. Rechts staat een bus langs een stoep met een wachthokje.",
+    "note": "L3 blauw-wit bord met zwarte bus. Bus en wachtplek dienen als visuele context."
+  },
+  {
+    "id": 59,
+    "image": "images/question-059.svg",
+    "alt": "Een blauwe auto rijdt achter een witte auto. Een ononderbroken witte middenlijn scheidt hen van een tegemoetkomende amberkleurige auto.",
+    "note": "Één doorgetrokken middenstreep zonder onderbroken buur; bestuurder blijft rechts."
+  },
+  {
+    "id": 60,
+    "image": "images/question-060.svg",
+    "alt": "Een blauwe auto rijdt rechts van twee witte middenlijnen. De lijn direct naast deze auto is onderbroken; de andere lijn is ononderbroken.",
+    "note": "Onderbroken lijn x409 ligt aan bestuurderskant x455; geen inhaalbeweging getekend."
+  },
+  {
+    "id": 61,
+    "image": "images/question-061.svg",
+    "alt": "Een blauwe auto nadert een kruispunt. Vlak voor de dwarsstraat staat een rij witte driehoeken op de eigen weghelft. Een amberkleurige auto nadert van rechts.",
+    "note": "Haaientanden alleen op eigen aanrijstrook; geen STOP-bord of stopstreep."
+  },
+  {
+    "id": 62,
+    "image": "images/question-062.svg",
+    "alt": "Langs de rechterrand van een straat loopt een ononderbroken gele streep. Een blauwe auto rijdt op de rijbaan en naast de stoep staan gebouwen.",
+    "note": "Gele doorgetrokken kantmarkering. Geen uit-/instappende persoon, geen correct/fout parkeergedrag."
+  },
+  {
+    "id": 63,
+    "image": "images/question-063.svg",
+    "alt": "Langs de rechterrand van de rijbaan liggen losse gele streepstukken. Een blauwe auto rijdt langs een stoep met woningen en een boom.",
+    "note": "Duidelijk onderbroken gele kantmarkering; geen doorgetrokken gele delen."
+  },
+  {
+    "id": 64,
+    "image": "images/question-064.svg",
+    "alt": "Een snelweg met drie rijstroken en een portaal met drie donkere signaalpanelen. Op het rechterpaneel brandt een rood kruis. Een blauwe auto nadert over de middelste strook.",
+    "note": "Rood kruis uitsluitend als werkelijk matrixsignaal boven rechter rijstrook, niet als antwoordmarkering."
+  },
+  {
+    "id": 65,
+    "image": "images/question-065.svg",
+    "alt": "Een blauwe auto staat op de linker van twee voorsorteerstroken in dezelfde rijrichting. Voor die auto staat een witte pijl naar links; in de strook ernaast staat een pijl rechtdoor.",
+    "note": "Zuidelijke tak is hier expliciet eenrichtingsaanvoer met twee noordwaartse voorsorteerstroken; eigen strook heeft alleen linksafpijl."
+  },
+  {
+    "id": 66,
+    "image": "images/question-066.svg",
+    "alt": "Blauwe auto nadert een bal die vanuit een opening tussen twee geparkeerde auto’s op de rijbaan ligt. Er is geen kind zichtbaar.",
+    "note": "De bal is zichtbaar, een eventueel volgend kind bewust niet. Geen remactie getekend."
+  },
+  {
+    "id": 67,
+    "image": "images/question-067.svg",
+    "alt": "Een blauwe auto nadert een geparkeerde auto rechts van de rijbaan. Door het dak is een inzittende aan de straatkant weergegeven; het portier is dicht.",
+    "note": "De inzittende zit in de geparkeerde auto. Portier nog dicht: het risico wordt niet als uitgevoerde gebeurtenis getoond."
+  },
+  {
+    "id": 68,
+    "image": "images/question-068.svg",
+    "alt": "Een blauwe auto rijdt op korte afstand achter een brede witte bestelbus. Verder voor de bestelbus rijdt nog een auto.",
+    "note": "Beginsituatie met kleine volgafstand; de blauwe auto neemt nog geen grotere afstand."
+  },
+  {
+    "id": 69,
+    "image": "images/question-069.svg",
+    "alt": "Op een smalle weg rijdt voor de blauwe auto een scheef geplaatste fietser. Op de andere weghelft nadert een auto.",
+    "note": "Fietser slingert en er is een tegenligger. Geen inhaalmanoeuvre of reactie zichtbaar."
+  },
+  {
+    "id": 70,
+    "image": "images/question-070.svg",
+    "alt": "Een blauwe auto nadert een scherpe bocht naar rechts. Bomen aan de binnenzijde beperken het overzicht. Naast de weg staat een bord 80.",
+    "note": "Scherpe onoverzichtelijke bocht met de genoemde limiet. Achter de bocht is geen verzonnen obstakel geplaatst."
+  },
+  {
+    "id": 71,
+    "image": "images/question-071.svg",
+    "alt": "Een blauwe auto rijdt op een donkere buitenweg. De bundel dimlicht verlicht slechts een deel van de rijbaan voor de auto.",
+    "note": "Alleen beperkt dimlichtbereik; geen snelheidskeuze in het beeld."
+  },
+  {
+    "id": 72,
+    "image": "images/question-072.svg",
+    "alt": "Twee auto’s rijden naar rechts op een natte weg tijdens een stevige regenbui. De blauwe auto rijdt achter de amberkleurige auto.",
+    "note": "Regen en nat wegdek zichtbaar. Geen verhoogde afstand of remactie als oplossing getekend."
+  },
+  {
+    "id": 73,
+    "image": "images/question-073.svg",
+    "alt": "Op een rechte weg rijdt een witte auto erg dicht achter de blauwe auto. De rijbaan voor de blauwe auto is vrij.",
+    "note": "Bumperklever achter de bestuurder; geen remlichten, versnelling of uitwijkactie."
+  },
+  {
+    "id": 74,
+    "image": "images/question-074.svg",
+    "alt": "De blauwe auto nadert op een autosnelweg een rij voertuigen. Verderop branden de remlichten in meerdere rijstroken.",
+    "note": "Veel remlichten ver vooruit en voldoende aanloopruimte. De blauwe auto remt niet al zichtbaar."
+  },
+  {
+    "id": 75,
+    "image": "images/question-075.svg",
+    "alt": "Een blauwe auto nadert van onderen een kruispunt zonder voorrangsborden of verkeerslichten. Een brede hoge heg staat op de hoek rechts.",
+    "note": "Gelijkwaardig kruispunt: geen borden/haaientanden toegevoegd. Heg staat aan de rechterhoek van de nadering."
+  },
+  {
+    "id": 76,
+    "image": "images/question-076.svg",
+    "alt": "Een blauwe auto wil vanaf de onderste tak rechtsaf bij een rond groen verkeerslicht. Rechts naast de auto rijdt een fietser rechtdoor.",
+    "note": "Gewoon rond groen, geen groene richtingspijl in het verkeerslicht. Witte pijlen tonen uitsluitend de in de vraag genoemde intenties."
+  },
+  {
+    "id": 77,
+    "image": "images/question-077.svg",
+    "alt": "Een fietser rijdt naar rechts langs een rij geparkeerde auto’s. Een blauwe auto nadert de fietser van achteren.",
+    "note": "Fietser bevindt zich naast geparkeerde auto’s; portieren zijn nog dicht en de blauwe auto haalt nog niet in."
+  },
+  {
+    "id": 78,
+    "image": "images/question-078.svg",
+    "alt": "Een blauwe auto rijdt achter een tractor en nadert een bocht naar links. Dichte begroeiing schermt het weggedeelte na de bocht af.",
+    "note": "Tractor vóór bestuurder op aanloop naar onoverzichtelijke bocht. Geen inhaalactie en geen aangenomen tegenligger."
+  },
+  {
+    "id": 79,
+    "image": "images/question-079.svg",
+    "alt": "Een blauwe auto rijdt naar rechts voorbij het einde van een groot gebouw. Het terrein rechts van het gebouw is open en een windzak staat strak in de wind.",
+    "note": "Overgang uit de beschutting van een gebouw naar open terrein, met zijwind. Geen koerscorrectie afgebeeld."
+  },
+  {
+    "id": 80,
+    "image": "images/question-080.svg",
+    "alt": "De blauwe auto nadert enkele brede diepe plassen op de rechterhelft van een rechte weg. De auto staat in het beeld nog ruim vóór het water.",
+    "note": "Plassen liggen vóór de auto. Geen afgebeelde remactie, acceleratie of rijstrookwisseling."
+  },
+  {
+    "id": 81,
+    "image": "images/question-081.svg",
+    "alt": "Een witte bestelbus staat op de rijstrook vlak voor een zebrapad. De blauwe auto nadert achter de bus; er is geen voetganger zichtbaar.",
+    "note": "Bus stopt vóór de zebra, niet erop. Geen verborgen voetganger zichtbaar gemaakt; de vraag gaat om de mogelijkheid."
+  },
+  {
+    "id": 82,
+    "image": "images/question-082.svg",
+    "alt": "Een blauwe auto nadert een persoon die met een rollator over de rijstrook loopt. De persoon bevindt zich al op de rijbaan.",
+    "note": "Rollator duidelijk herkenbaar; geen niet-genoemd zebrapad en geen remactie toegevoegd."
+  },
+  {
+    "id": 83,
+    "image": "images/question-083.svg",
+    "alt": "Een blauwe auto nadert een stilstaande autobus bij een halte. Twee kinderen staan aan de uitstapkant van de bus op het trottoir.",
+    "note": "Kinderen naast uitstapzijde. Geen al overstekend kind vóór de bus toegevoegd. Blauwe auto nog achter de bus."
+  },
+  {
+    "id": 84,
+    "image": "images/question-084.svg",
+    "alt": "Een blauwe auto wil op een kruispunt rechtsaf. Op het fietspad vlak rechts naast en iets achter de auto rijdt een fietser rechtdoor.",
+    "note": "Fietser bevindt zich aan de rechterachterzijde, niet vóór de bestuurder. Intentie rechtsaf is zichtbaar, nog niet uitgevoerd."
+  },
+  {
+    "id": 85,
+    "image": "images/question-085.svg",
+    "alt": "Een blauwe auto staat in een uitrit voor een doorlopend trottoir. Een hoge muur direct rechts van de uitrit belemmert het zicht langs het trottoir.",
+    "note": "Uitrit kruist doorlopend trottoir. Muur staat rechts van uitrit; auto blokkeert het trottoir nog niet."
+  },
+  {
+    "id": 86,
+    "image": "images/question-086.svg",
+    "alt": "Een blauwe auto rijdt naar rechts achter een andere auto. Een laagstaande zon aan de rechterkant veroorzaakt een lichte gloed over de rijbaan.",
+    "note": "Zon staat in de rijrichting. Gegeven verblinding wordt getoond, zonder zonnebril/zonneklep of gewijzigde afstand."
+  },
+  {
+    "id": 87,
+    "image": "images/question-087.svg",
+    "alt": "Op een smalle weg rijdt een ambulance met blauwe lichtsignalen achter de blauwe auto. Heggen en geparkeerde voertuigen beperken de ruimte naast de weg.",
+    "note": "Ambulance nadert van achteren. Geluidsbogen staan voor de genoemde sirene. De bestuurder voert nog geen uitwijkactie uit."
+  },
+  {
+    "id": 88,
+    "image": "images/question-088.svg",
+    "alt": "Een blauwe auto rijdt op een bosweg. Rechts in de berm staat een ree met de kop naar de weg, ruim vóór de auto.",
+    "note": "Ree staat nog naast de rijbaan. Geen oversteek, uitwijkmanoeuvre of remactie als feit ingevuld."
+  },
+  {
+    "id": 89,
+    "image": "images/question-089.svg",
+    "alt": "De blauwe auto nadert een kruispunt op een voorrangsweg. Vanuit de rechterzijstraat komt een amberkleurige auto dicht bij haaientanden en een voorrangsbord.",
+    "note": "Haaientanden richten zich op verkeer uit de rechterzijstraat. De naderende auto staat vóór de tanden; geen botsing getoond."
+  },
+  {
+    "id": 90,
+    "image": "images/question-090.svg",
+    "alt": "De blauwe auto rijdt op een rijstrook die verderop eindigt. Links naast de auto rijdt een amberkleurige auto iets verder naar achteren.",
+    "note": "Rechterstrook eindigt door zichtbare versmalling. Andere auto ter hoogte van achterportier; er is nog geen strookwisseling."
+  },
+  {
+    "id": 91,
+    "image": "images/question-091.svg",
+    "alt": "De blauwe auto staat op een rijstrook met een pijl rechtdoor. Op de rechterstrook staat een rechtsafpijl. Een navigatiescherm rechts in beeld toont een route naar rechts.",
+    "note": "Rechtdoorstrook en afwijkende navigatie-instructie zijn feiten uit de vraag. Scherm is een schema-inzet, geen telefoon in de hand."
+  },
+  {
+    "id": 92,
+    "image": "images/question-092.svg",
+    "alt": "Een blauwe auto nadert een wegvak met smalle stroken, verkeerskegels en afzettingen. Een tijdelijk bord geeft 50 aan. Er zijn geen wegwerkers zichtbaar.",
+    "note": "Lage limiet en smaller werkvak blijven zichtbaar zonder aanwezige werknemers. De blauwe auto heeft nog geen antwoordgedrag."
+  },
+  {
+    "id": 93,
+    "image": "images/question-093.svg",
+    "alt": "Een blauwe auto trekt een caravan over een open weg. De caravan staat licht schuin achter de auto. Windlijnen en een windzak tonen windvlagen.",
+    "note": "Caravancombinatie licht onrustig door zijwind. Geen rem-, gas- of stuurbeweging aangeduid."
+  },
+  {
+    "id": 94,
+    "image": "images/question-094.svg",
+    "alt": "Een blauwe auto nadert een brug over water. Op het schaduwrijke brugdek zijn lichte ijzige plekken te zien en langs de brug staan leuningen.",
+    "note": "Auto nog vóór brug, mogelijke gladheid alleen op schaduwrijk brugdek. Geen reactie alvast getoond."
+  },
+  {
+    "id": 97,
+    "image": "images/question-097.svg",
+    "alt": "Een blauwe auto rijdt door een brede laag water op de rijbaan. Watergolven en opspattend water zijn rondom de banden zichtbaar.",
+    "note": "Water onder de rijdende auto illustreert de gegeven aquaplaningsituatie. Geen scherpe stuurhoek, remactie of gasreactie."
+  },
+  {
+    "id": 99,
+    "image": "images/question-099.svg",
+    "alt": "Een blauwe auto rijdt op een weg in dichte mist. De rijbaan en een voertuig verderop vervagen. Een neutrale maatlijn vermeldt ongeveer 40 meter zicht.",
+    "note": "Zichtafstand is exact de gegeven context; mistachterlicht is niet aangezet om geen antwoord te suggereren."
+  },
+  {
+    "id": 102,
+    "image": "images/question-102.svg",
+    "alt": "In het donker rijdt een blauwe auto met een brede bundel groot licht. Een tegemoetkomende fietser rijdt op de andere helft van de weg.",
+    "note": "Groot licht is de beginsituatie en fietser is tegenligger. Niet alvast gedimd."
+  },
+  {
+    "id": 107,
+    "image": "images/question-107.svg",
+    "alt": "Een blauwe auto staat vlak na een bocht met vier amberkleurige alarmlichten. Dichte begroeiing aan de binnenkant maakt de hindernis moeilijk vooraf zichtbaar.",
+    "note": "Werkende alarmlichten en beperkt zicht zijn gegeven. Geen gevarendriehoek of wachtpositie die de keuze invult."
+  },
+  {
+    "id": 112,
+    "image": "images/question-112.svg",
+    "alt": "Een blauwe auto rijdt op een winterse weg achter een strooiwagen. Achter de strooiwagen liggen kleine zoutkorrels, terwijl het wegdek nog ijzige plekken heeft.",
+    "note": "Strooien is zichtbaar, zonder de weg als meteen ijsvrij af te beelden."
+  },
+  {
+    "id": 116,
+    "image": "images/question-116.svg",
+    "alt": "Op dezelfde snelweghelft rijden de blauwe auto en een andere auto in tegengestelde richting. Witte richtingspijlen tonen de beweging van beide voertuigen.",
+    "note": "Witte auto rijdt tegen de rijrichting op dezelfde weghelft. Blauwe auto wijkt nog niet uit en er is geen antwoordpijl naar rechts."
+  },
+  {
+    "id": 117,
+    "image": "images/question-117.svg",
+    "alt": "De blauwe auto staat op de vluchtstrook naast een vangrail. Links daarvan rijdt verkeer over de rijstroken. Er staan nog geen mensen buiten de auto.",
+    "note": "Auto staat op vluchtstrook. Geen personen achter vangrail of naast auto die de gevraagde wachtplek verraden."
+  },
+  {
+    "id": 122,
+    "image": "images/question-122.svg",
+    "alt": "Een blauwe auto rijdt naar rechts op de onderste van twee rijstroken. Een motorfiets bevindt zich schuin links achter de auto. Een inzet toont een lege buitenspiegel.",
+    "note": "Twee rijstroken hebben dezelfde richting. Geen dodehoekmarkering of reeds uitgevoerde controle; lege spiegel is gegeven in vraag."
+  },
+  {
+    "id": 127,
+    "image": "images/question-127.svg",
+    "alt": "Een landelijke weg heeft een afzonderlijk rood fietspad rechts, gescheiden door een grasstrook. Er is geen trottoir of voetpad aanwezig.",
+    "note": "Alleen aanwezige infrastructuur; geen voetganger op één van de antwoordlocaties geplaatst."
+  },
+  {
+    "id": 129,
+    "image": "images/question-129.svg",
+    "alt": "Een fietser rijdt dwars over de strepen van een zebrapad. Een blauwe auto nadert de oversteekplaats van onderen.",
+    "note": "De fietser zit op de fiets; geen voetganger met fiets aan de hand. Geen voorrangsmarkering voor fietser."
+  },
+  {
+    "id": 130,
+    "image": "images/question-130.svg",
+    "alt": "Op een trottoir loopt iemand naast een fiets en houdt het stuur vast. De persoon zit niet op het zadel.",
+    "note": "Persoon en fiets staan naast elkaar met arm naar stuur. Geen tekstlabel met de verkeersrechtelijke status."
+  },
+  {
+    "id": 132,
+    "image": "images/question-132.svg",
+    "alt": "Buiten de bebouwde kom staat een autobus in een haltehaven rechts van de rijbaan, met linker richtingaanwijzer aan. Een blauwe auto nadert achter de bus.",
+    "note": "Halte ligt na einde bebouwde kom (doorgestreept kombord). Bus wil vanuit haven naar links de rijbaan op; auto nog geen reactie."
+  },
+  {
+    "id": 135,
+    "image": "images/question-135.svg",
+    "alt": "Een vrachtwagen wil bij een kruispunt rechtsaf. Rechts naast de vrachtwagen rijdt een fietser op een fietspad dat rechtdoor loopt.",
+    "note": "Fietser rechts naast truck en intentie rechtsaf. Geen ingekleurde dode hoek of aanwijzing welk antwoord juist is."
+  },
+  {
+    "id": 138,
+    "image": "images/question-138.svg",
+    "alt": "Een lange autobus voor de blauwe auto begint naar rechts een zijstraat in te draaien. De autobus staat schuin tussen de doorgaande weg en de zijstraat.",
+    "note": "Bus begint scherpe rechterbocht, blauwe auto erachter. Geen gekleurde uitzwaaizone of beweegpijl aan juiste hoek."
+  },
+  {
+    "id": 140,
+    "image": "images/question-140.svg",
+    "alt": "Een tram staat op rails in de rijbaan. Passagiers lopen vanaf het trottoir over de rijbaan naar deuren aan de rechterkant. De blauwe auto nadert aan die instapzijde; er is geen vluchtheuvel.",
+    "note": "Passagiers kruisen rijbaan vanaf trottoir, zonder eiland. Auto passeert aan rechter instapzijde; geen reactie getekend."
+  },
+  {
+    "id": 144,
+    "image": "images/question-144.svg",
+    "alt": "Op een smalle buitenweg nadert een breed landbouwvoertuig een blauwe auto. Het landbouwvoertuig heeft een brede machine achter zich en naast de weg ligt een onverharde berm.",
+    "note": "Brede tegenligger en smalle weg. Auto staat nog op rijbaan, niet in een als antwoord gekozen wachtplek."
+  },
+  {
+    "id": 201,
+    "image": "images/question-201.svg",
+    "alt": "Een blauwe auto nadert het begin van een autoweg. Het blauwe bord met een autosymbool staat rechts naast de rijbaan; de weg buigt verderop naar rechts.",
+    "note": "G3 geeft uitsluitend wegtype; geen getal dat de minimale toelatingssnelheid verklapt. Auto op rechterhelft van bochttoegang."
+  },
+  {
+    "id": 202,
+    "image": "images/question-202.svg",
+    "alt": "Een blauwe auto rijdt op de rechterrijstrook van een autosnelweg. Naast hem ligt een lege vluchtstrook achter een doorgetrokken streep. Een klein navigatiekaartje staat apart naast de weg.",
+    "note": "Nog geen stop op vluchtstrook uitgevoerd; geen noodgeval of geopend spitsstrookteken. Navigatie geeft alleen bedoeling uit vraag weer."
+  },
+  {
+    "id": 203,
+    "image": "images/question-203.svg",
+    "alt": "Op een voorrangsweg tussen landbouwgrond staat de blauwe auto langs de rand van de rijbaan. Het gele ruitvormige voorrangswegbord staat verderop rechts.",
+    "note": "Buiten de kom, auto op asfalt en niet in berm of parkeervak. B1 is gegeven context, geen parkeerverbod afgebeeld."
+  },
+  {
+    "id": 204,
+    "image": "images/question-204.svg",
+    "alt": "De blauwe auto nadert de onderste toerit van een rotonde met haaientanden en een omlopend rood fietspad. Op de rotonde komt een amberkleurige auto van links naar de toerit toe; op het fietspad rijdt niemand.",
+    "note": "Rotonde tegen de klok in: auto linksonder rijdt naar rechtsonder. Eigen noordwaartse toerit heeft haaientanden vóór het lege fietspad; geen extra fietsers of voorrangsaanspraken."
+  },
+  {
+    "id": 205,
+    "image": "images/question-205.svg",
+    "alt": "Een blauwe auto nadert een rustige T-aansluiting en wil rechtsaf, aangegeven met een witte intentiepijl. Er is geen ander verkeer zichtbaar.",
+    "note": "Pijl toont alleen het gegeven afslagvoornemen. Geen brandende richtingaanwijzer die het gevraagde tijdstip al voordoet."
+  },
+  {
+    "id": 206,
+    "image": "images/question-206.svg",
+    "alt": "Een blauwe auto staat achter andere auto’s op een stedelijke doorgaande rijstrook. Rechts ligt een afzonderlijke strook met het woord BUS; daarop rijdt verderop een autobus.",
+    "note": "BUS-strook apart met doorgetrokken grens. Geen toestemming of verboden-pictogram over blauwe auto."
+  },
+  {
+    "id": 207,
+    "image": "images/question-207.svg",
+    "alt": "De blauwe auto rijdt op een gewone weg naast een langwerpig vlak met schuine witte strepen. Het vlak is door een witte rand van de rijstrook gescheiden.",
+    "note": "Verdrijvingsvlak, geen spitsstrook/busstrook, zonder voertuigen of antwoordmarkeringen erop."
+  },
+  {
+    "id": 208,
+    "image": "images/question-208.svg",
+    "alt": "Een blauwe auto nadert een rood verkeerslicht bij een kruispunt. Een brede witte stopstreep ligt vóór de kruising en vóór de paal van het licht.",
+    "note": "Auto nog op afstand vóór de streep, niet al als juiste eindpositie geplaatst. Licht en streep afzonderlijk zichtbaar."
+  },
+  {
+    "id": 209,
+    "image": "images/question-209.svg",
+    "alt": "Bij een kruispunt nadert een blauwe auto een geel knipperend verkeerslicht. Rond de gele lamp staan korte stralen. Een amberkleurige auto nadert de kruising van rechts.",
+    "note": "Knipperen statisch verbeeld met stralen rond gele lamp; geen eigen voorrang of verplicht stopmoment gevisualiseerd."
+  },
+  {
+    "id": 210,
+    "image": "images/question-210.svg",
+    "alt": "Een blauwe auto rijdt op een autosnelweg. Naast de weg staat een vast bord met 100; boven zijn rijstrook toont een zwart matrixbord 70.",
+    "note": "Beide getallen zijn gegeven tekens, identiek neutraal weergegeven zonder juiste antwoord te markeren."
+  },
+  {
+    "id": 221,
+    "image": "images/question-221.svg",
+    "alt": "Schematische illustratie bij verkeersborden, onderborden en verkeerstekens. De vraag beschrijft: Je ziet bord A1 met 50. Er staat geen onderbord. Wat geeft dit bord aan?",
+    "note": "Zelfgetekende sign-situatie; gekoppeld aan vraag 221. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 222,
+    "image": "images/question-222.svg",
+    "alt": "Schematische illustratie bij verkeersborden, onderborden en verkeerstekens. De vraag beschrijft: Je passeert bord A2 met 30 doorgestreept, direct na een wegvak waar A1-30 gold. Er staat geen nieuwe snelheidslimiet. Wat geldt vanaf dit bord?",
+    "note": "Zelfgetekende sign-situatie; gekoppeld aan vraag 222. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 223,
+    "image": "images/question-223.svg",
+    "alt": "Schematische illustratie bij verkeersborden, onderborden en verkeerstekens. De vraag beschrijft: Een driehoekig waarschuwingsbord toont steentjes die tegen een auto opspatten. Wat kondigt het aan?",
+    "note": "Zelfgetekende sign-situatie; gekoppeld aan vraag 223. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 224,
+    "image": "images/question-224.svg",
+    "alt": "Schematische illustratie bij verkeersborden, onderborden en verkeerstekens. De vraag beschrijft: Bord C1 staat voor een weg. Er staat geen onderbord bij. Wat betekent het voor jou als automobilist?",
+    "note": "Zelfgetekende sign-situatie; gekoppeld aan vraag 224. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 225,
+    "image": "images/question-225.svg",
+    "alt": "Schematische illustratie bij verkeersborden, onderborden en verkeerstekens. De vraag beschrijft: Je nadert B6 met haaientanden. Het kruispunt is volledig vrij en je kunt goed overzien dat er geen verkeer nadert. Moet je toch volledig stoppen?",
+    "note": "Zelfgetekende sign-situatie; gekoppeld aan vraag 225. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 226,
+    "image": "images/question-226.svg",
+    "alt": "Schematische illustratie bij verkeersborden, onderborden en verkeerstekens. De vraag beschrijft: Een blauw vierkant bord toont een witte P. Wat geeft het aan?",
+    "note": "Zelfgetekende sign-situatie; gekoppeld aan vraag 226. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 227,
+    "image": "images/question-227.svg",
+    "alt": "Schematische illustratie bij verkeersborden, onderborden en verkeerstekens. De vraag beschrijft: Een blauw bord E7 reserveert de strook voor laden en lossen. Je wilt je auto daar achterlaten terwijl je een pakket naar een woning brengt. Mag dat?",
+    "note": "Zelfgetekende sign-situatie; gekoppeld aan vraag 227. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 228,
+    "image": "images/question-228.svg",
+    "alt": "Schematische illustratie bij verkeersborden, onderborden en verkeerstekens. De vraag beschrijft: Bij E2 wil een passagier direct uitstappen. Je stopt maar enkele seconden. Mag dat op grond van de gewone uitzondering voor in- en uitstappen?",
+    "note": "Zelfgetekende sign-situatie; gekoppeld aan vraag 228. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 229,
+    "image": "images/question-229.svg",
+    "alt": "Schematische illustratie bij verkeersborden, onderborden en verkeerstekens. De vraag beschrijft: Bord F5 toont een rode pijl links en een zwarte pijl rechts. Wie moet tegemoetkomend verkeer voor laten gaan?",
+    "note": "Zelfgetekende sign-situatie; gekoppeld aan vraag 229. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 230,
+    "image": "images/question-230.svg",
+    "alt": "Schematische illustratie bij verkeersborden, onderborden en verkeerstekens. De vraag beschrijft: Je staat voor bord B7: STOP. Er nadert op dit moment niemand. Wat is verplicht?",
+    "note": "Zelfgetekende sign-situatie; gekoppeld aan vraag 230. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 231,
+    "image": "images/question-231.svg",
+    "alt": "Schematische illustratie bij verkeersborden, onderborden en verkeerstekens. De vraag beschrijft: Bord B1 staat langs de weg waarop je rijdt. Wat geeft het aan?",
+    "note": "Zelfgetekende sign-situatie; gekoppeld aan vraag 231. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 232,
+    "image": "images/question-232.svg",
+    "alt": "Schematische illustratie bij verkeersborden, onderborden en verkeerstekens. De vraag beschrijft: Je ziet B2, het einde-voorrangsweg-bord. Wat verandert er?",
+    "note": "Zelfgetekende sign-situatie; gekoppeld aan vraag 232. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 233,
+    "image": "images/question-233.svg",
+    "alt": "Schematische illustratie bij verkeersborden, onderborden en verkeerstekens. De vraag beschrijft: Een Andreaskruis bij een spoorwegovergang bestaat uit twee gekruiste witte balken. Wat geeft de dubbele uitvoering aan?",
+    "note": "Zelfgetekende sign-situatie; gekoppeld aan vraag 233. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 234,
+    "image": "images/question-234.svg",
+    "alt": "Schematische illustratie bij verkeersborden, onderborden en verkeerstekens. De vraag beschrijft: Bord G11 geeft een verplicht fietspad aan. Mag je er met een personenauto rijden om een file te passeren?",
+    "note": "Zelfgetekende sign-situatie; gekoppeld aan vraag 234. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 235,
+    "image": "images/question-235.svg",
+    "alt": "Schematische illustratie bij verkeersborden, onderborden en verkeerstekens. De vraag beschrijft: Een blauwe rechthoek toont een bus en een fiets. Wat is de functie van zo’n bord?",
+    "note": "Zelfgetekende sign-situatie; gekoppeld aan vraag 235. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 236,
+    "image": "images/question-236.svg",
+    "alt": "Schematische illustratie bij verkeersborden, onderborden en verkeerstekens. De vraag beschrijft: Een wit onderbord bij een parkeerverbod toont een laadklep met tijden. Wanneer geldt de uitzondering?",
+    "note": "Zelfgetekende sign-situatie; gekoppeld aan vraag 236. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 237,
+    "image": "images/question-237.svg",
+    "alt": "Schematische illustratie bij verkeersborden, onderborden en verkeerstekens. De vraag beschrijft: Je rijdt op een rijstrook en boven die strook verschijnt een witte pijl schuin naar rechts. Wat betekent dit rijstrooklicht?",
+    "note": "Zelfgetekende sign-situatie; gekoppeld aan vraag 237. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 238,
+    "image": "images/question-238.svg",
+    "alt": "Schematische illustratie bij verkeersborden, onderborden en verkeerstekens. De vraag beschrijft: Een rond blauw bord toont zowel een fiets als een bromfiets. Je rijdt op een bromfiets. Welk pad moet je gebruiken?",
+    "note": "Zelfgetekende sign-situatie; gekoppeld aan vraag 238. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 239,
+    "image": "images/question-239.svg",
+    "alt": "Schematische illustratie bij verkeersborden, onderborden en verkeerstekens. De vraag beschrijft: Je auto met dakkoffer is 2,05 m hoog. Voor een tunnel staat bord C19 met 2,0 m. Mag je de tunnel in?",
+    "note": "Zelfgetekende sign-situatie; gekoppeld aan vraag 239. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 240,
+    "image": "images/question-240.svg",
+    "alt": "Schematische illustratie bij verkeersborden, onderborden en verkeerstekens. De vraag beschrijft: Je rijdt naar een kruising met bord B3, een voorrangskruispunt. Hoe lees je dit bord?",
+    "note": "Zelfgetekende sign-situatie; gekoppeld aan vraag 240. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 241,
+    "image": "images/question-241.svg",
+    "alt": "Schematische illustratie bij verkeersborden, onderborden en verkeerstekens. De vraag beschrijft: Je passeert bord F2, het einde van het inhaalverbod. Verderop ligt nog een doorgetrokken middenstreep. Mag je die streep overschrijden om een auto in te halen?",
+    "note": "Zelfgetekende sign-situatie; gekoppeld aan vraag 241. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 242,
+    "image": "images/question-242.svg",
+    "alt": "Schematische illustratie bij verkeersborden, onderborden en verkeerstekens. De vraag beschrijft: Een parkeerverbod geldt volgens een onderbord alleen op werkdagen van 8.00 tot 18.00 uur. Het is zaterdag 19.00 uur en geen feestdag. Wat volgt uit alleen deze borden?",
+    "note": "Zelfgetekende sign-situatie; gekoppeld aan vraag 242. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 243,
+    "image": "images/question-243.svg",
+    "alt": "Schematische illustratie bij verkeersborden, onderborden en verkeerstekens. De vraag beschrijft: Een onderbord vermeldt \"uitgezonderd vergunninghouders\" bij een toegangsverbod. Je hebt geen vergunning maar wel een bestemming achter het bord. Mag je doorrijden?",
+    "note": "Zelfgetekende sign-situatie; gekoppeld aan vraag 243. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 244,
+    "image": "images/question-244.svg",
+    "alt": "Schematische illustratie bij verkeersborden, onderborden en verkeerstekens. De vraag beschrijft: Een spoorwegovergang heeft geen slagbomen. Het witte licht knippert en de spoorbaan is zichtbaar vrij. Wat betekent het witte licht?",
+    "note": "Zelfgetekende sign-situatie; gekoppeld aan vraag 244. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 245,
+    "image": "images/question-245.svg",
+    "alt": "Schematische illustratie bij verkeersborden, onderborden en verkeerstekens. De vraag beschrijft: Een bord noemt een geslotenverklaring \"van 7–9 uur\". Je nadert het om 8.59 uur en passeert het bord om 9.01 uur. Is de geslotenverklaring op jouw passeermoment actief?",
+    "note": "Zelfgetekende sign-situatie; gekoppeld aan vraag 245. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 246,
+    "image": "images/question-246.svg",
+    "alt": "Schematische illustratie bij verkeersborden, onderborden en verkeerstekens. De vraag beschrijft: Een bord verbiedt inhalen. Voor je rijdt een bromfiets; verderop is de weg vrij. Mag je die bromfiets inhalen?",
+    "note": "Zelfgetekende sign-situatie; gekoppeld aan vraag 246. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 247,
+    "image": "images/question-247.svg",
+    "alt": "Schematische illustratie bij verkeersborden, onderborden en verkeerstekens. De vraag beschrijft: Je ziet een snelheidsbord met een onderbord \"bij nat wegdek\". Het regent, maar het asfalt lijkt op jouw rijstrook droog. Geldt de lagere limiet?",
+    "note": "Zelfgetekende sign-situatie; gekoppeld aan vraag 247. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 248,
+    "image": "images/question-248.svg",
+    "alt": "Schematische illustratie bij verkeersborden, onderborden en verkeerstekens. De vraag beschrijft: Een eenrichtingsbord staat bij een straat, maar onder het bord staat \"uitgezonderd fietsers\". Je rijdt in een auto achter een fietser. Mag je de straat in?",
+    "note": "Zelfgetekende sign-situatie; gekoppeld aan vraag 248. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 249,
+    "image": "images/question-249.svg",
+    "alt": "Schematische illustratie bij verkeersborden, onderborden en verkeerstekens. De vraag beschrijft: Je nadert een voorrangskruispunt. Een tijdelijk bord bij wegwerkzaamheden wijst de voorrang anders toe dan de vaste situatie. Wat volg je?",
+    "note": "Zelfgetekende sign-situatie; gekoppeld aan vraag 249. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 250,
+    "image": "images/question-250.svg",
+    "alt": "Schematische illustratie bij verkeersborden, onderborden en verkeerstekens. De vraag beschrijft: Een onderbord geeft aan \"alleen tijdens schooldagen\". Het is woensdag in de zomervakantie. Wat kun je uit dit bord afleiden?",
+    "note": "Zelfgetekende sign-situatie; gekoppeld aan vraag 250. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 251,
+    "image": "images/question-251.svg",
+    "alt": "Schematische illustratie bij voorrang, kruispunten en voorrangsregels. De vraag beschrijft: Een auto komt van rechts en rijdt via een uitritconstructie met een doorlopend trottoir de weg op. Jij rijdt op de kruisende weg. Welke regel geldt?",
+    "note": "Zelfgetekende junction-situatie; gekoppeld aan vraag 251. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 252,
+    "image": "images/question-252.svg",
+    "alt": "Schematische illustratie bij voorrang, kruispunten en voorrangsregels. De vraag beschrijft: Je slaat linksaf op een kruispunt. Een tegemoetkomende auto gaat rechtdoor. Wie laat wie voorgaan?",
+    "note": "Zelfgetekende junction-situatie; gekoppeld aan vraag 252. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 253,
+    "image": "images/question-253.svg",
+    "alt": "Schematische illustratie bij voorrang, kruispunten en voorrangsregels. De vraag beschrijft: Je bent onderdeel van een herkenbare militaire colonne. De eerste voertuigen rijden bij groen het kruispunt op; tijdens het oversteken springt het licht op rood. Wat mogen de colonnevoertuigen doen?",
+    "note": "Zelfgetekende junction-situatie; gekoppeld aan vraag 253. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 254,
+    "image": "images/question-254.svg",
+    "alt": "Schematische illustratie bij voorrang, kruispunten en voorrangsregels. De vraag beschrijft: Een tram rijdt vanaf een remise via een uitrit de rijbaan op. Jij nadert over die rijbaan. Heeft de tram alleen vanwege zijn voertuigsoort voorrang?",
+    "note": "Zelfgetekende junction-situatie; gekoppeld aan vraag 254. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 255,
+    "image": "images/question-255.svg",
+    "alt": "Schematische illustratie bij voorrang, kruispunten en voorrangsregels. De vraag beschrijft: Een voetganger staat bij de rand van een gewone weg en wil oversteken. Er is geen zebrapad, verkeerslicht of voorrangsbord. Welke uitspraak is juist?",
+    "note": "Zelfgetekende junction-situatie; gekoppeld aan vraag 255. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 256,
+    "image": "images/question-256.svg",
+    "alt": "Schematische illustratie bij voorrang, kruispunten en voorrangsregels. De vraag beschrijft: Je rijdt op de rijbaan en wilt vooruit een parkeervak inrijden. Een fietser nadert achter je en een auto rijdt op de rijbaan naast het vak. Wat geldt?",
+    "note": "Zelfgetekende junction-situatie; gekoppeld aan vraag 256. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 257,
+    "image": "images/question-257.svg",
+    "alt": "Schematische illustratie bij voorrang, kruispunten en voorrangsregels. De vraag beschrijft: Een auto van rechts komt bij een gelijkwaardig kruispunt aan. Jij hebt hem gezien maar hij stopt uit beleefdheid. Wat is verstandig?",
+    "note": "Zelfgetekende junction-situatie; gekoppeld aan vraag 257. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 258,
+    "image": "images/question-258.svg",
+    "alt": "Schematische illustratie bij voorrang, kruispunten en voorrangsregels. De vraag beschrijft: Twee wegen kruisen elkaar en er zijn geen verkeersborden, lichten of haaientanden. Hoe bepaal je in beginsel de voorrang?",
+    "note": "Zelfgetekende junction-situatie; gekoppeld aan vraag 258. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 259,
+    "image": "images/question-259.svg",
+    "alt": "Schematische illustratie bij voorrang, kruispunten en voorrangsregels. De vraag beschrijft: Op een gelijkwaardig kruispunt nadert een auto van rechts en geeft richting aan naar links. Jij wilt rechtdoor. Wat doe je?",
+    "note": "Zelfgetekende junction-situatie; gekoppeld aan vraag 259. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 260,
+    "image": "images/question-260.svg",
+    "alt": "Schematische illustratie bij voorrang, kruispunten en voorrangsregels. De vraag beschrijft: Je rijdt op een voorrangsweg en slaat rechtsaf. Een voetganger wil rechtdoor de zijweg oversteken waar jij inrijdt. Wat doe je?",
+    "note": "Zelfgetekende junction-situatie; gekoppeld aan vraag 260. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 261,
+    "image": "images/question-261.svg",
+    "alt": "Schematische illustratie bij voorrang, kruispunten en voorrangsregels. De vraag beschrijft: Een onderbord bij een toegangsverbod vermeldt \"uitgezonderd bestemmingsverkeer\". Je wilt de gesloten weg gebruiken als kortere doorgaande route naar een winkel buiten die straat. Mag dat?",
+    "note": "Zelfgetekende junction-situatie; gekoppeld aan vraag 261. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 262,
+    "image": "images/question-262.svg",
+    "alt": "Schematische illustratie bij voorrang, kruispunten en voorrangsregels. De vraag beschrijft: Jij slaat linksaf en een tegemoetkomende fietser slaat ook linksaf. De fietser blijft op zijn eigen rijbaan. Wat is de relevante regel?",
+    "note": "Zelfgetekende junction-situatie; gekoppeld aan vraag 262. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 263,
+    "image": "images/question-263.svg",
+    "alt": "Schematische illustratie bij voorrang, kruispunten en voorrangsregels. De vraag beschrijft: Je verlaat een groot parkeerterrein via een uitrit die een voetpad én een fietspad kruist. Een fietser komt van links en een voetganger van rechts. Wie laat je voorgaan?",
+    "note": "Zelfgetekende junction-situatie; gekoppeld aan vraag 263. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 264,
+    "image": "images/question-264.svg",
+    "alt": "Schematische illustratie bij voorrang, kruispunten en voorrangsregels. De vraag beschrijft: Je nadert een kleine rotonde zonder haaientanden, verkeerslichten of voorrangsborden. Een auto rijdt al op het ronde deel en komt van links. Wie heeft op basis van alleen deze inrichting voorrang?",
+    "note": "Zelfgetekende junction-situatie; gekoppeld aan vraag 264. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 265,
+    "image": "images/question-265.svg",
+    "alt": "Schematische illustratie bij voorrang, kruispunten en voorrangsregels. De vraag beschrijft: Op een rotonde zijn haaientanden bij de toerit aangebracht. Een voertuig rijdt al op de rotonde. Wat geldt?",
+    "note": "Zelfgetekende junction-situatie; gekoppeld aan vraag 265. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 266,
+    "image": "images/question-266.svg",
+    "alt": "Schematische illustratie bij voorrang, kruispunten en voorrangsregels. De vraag beschrijft: Je rijdt op een rotonde zonder haaientanden of voorrangsborden. Wat bepaalt de voorrang?",
+    "note": "Zelfgetekende junction-situatie; gekoppeld aan vraag 266. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 267,
+    "image": "images/question-267.svg",
+    "alt": "Schematische illustratie bij voorrang, kruispunten en voorrangsregels. De vraag beschrijft: Je rijdt met de auto naar rechts. Het driekleurige verkeerslicht is rood, maar een aanvullend verlicht pijltje naar rechts brandt groen. Wat mag je doen?",
+    "note": "Zelfgetekende junction-situatie; gekoppeld aan vraag 267. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 268,
+    "image": "images/question-268.svg",
+    "alt": "Schematische illustratie bij voorrang, kruispunten en voorrangsregels. De vraag beschrijft: Je nadert een spoorwegovergang. De overwegbomen zijn open, maar het rode licht knippert nog. Mag je doorrijden?",
+    "note": "Zelfgetekende junction-situatie; gekoppeld aan vraag 268. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 269,
+    "image": "images/question-269.svg",
+    "alt": "Schematische illustratie bij voorrang, kruispunten en voorrangsregels. De vraag beschrijft: Je staat op een kruispunt om linksaf te slaan. Een tegenligger rijdt rechtdoor. Het kruispunt dreigt te blokkeren door een file. Wat doe je?",
+    "note": "Zelfgetekende junction-situatie; gekoppeld aan vraag 269. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 270,
+    "image": "images/question-270.svg",
+    "alt": "Schematische illustratie bij voorrang, kruispunten en voorrangsregels. De vraag beschrijft: Je slaat rechtsaf op een weg met een fietsstrook. Een fietser rijdt achter je op die strook en blijft rechtdoor gaan. Wat is de veiligste wettelijke toepassing?",
+    "note": "Zelfgetekende junction-situatie; gekoppeld aan vraag 270. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 271,
+    "image": "images/question-271.svg",
+    "alt": "Schematische illustratie bij voorrang, kruispunten en voorrangsregels. De vraag beschrijft: Een auto op de voorrangsweg nadert van rechts, maar jij rijdt op een weg met bord B6 en haaientanden. Wat weegt zwaarder?",
+    "note": "Zelfgetekende junction-situatie; gekoppeld aan vraag 271. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 272,
+    "image": "images/question-272.svg",
+    "alt": "Schematische illustratie bij voorrang, kruispunten en voorrangsregels. De vraag beschrijft: Je staat bij een gelijkwaardig kruispunt. Van rechts nadert een fietser; tegelijk rijdt een tram van links. Jij wilt rechtdoor. Wie laat je voorgaan?",
+    "note": "Zelfgetekende junction-situatie; gekoppeld aan vraag 272. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 273,
+    "image": "images/question-273.svg",
+    "alt": "Schematische illustratie bij voorrang, kruispunten en voorrangsregels. De vraag beschrijft: Jij slaat linksaf op een gelijkwaardig kruispunt. Een tegemoetkomende auto slaat rechtsaf dezelfde zijweg in, en een fietser naast jou rijdt rechtdoor. Welke verkeersdeelnemer moet je zeker voor laten gaan?",
+    "note": "Zelfgetekende junction-situatie; gekoppeld aan vraag 273. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 274,
+    "image": "images/question-274.svg",
+    "alt": "Schematische illustratie bij voorrang, kruispunten en voorrangsregels. De vraag beschrijft: Een ambulance nadert met blauw zwaailicht en sirene terwijl jij voor rood staat. Er is ruimte om naar een veilige wachtplek te rollen, maar de stopstreep ligt vóór jou. Wat doe je?",
+    "note": "Zelfgetekende junction-situatie; gekoppeld aan vraag 274. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 275,
+    "image": "images/question-275.svg",
+    "alt": "Schematische illustratie bij voorrang, kruispunten en voorrangsregels. De vraag beschrijft: Je rijdt een gelijkwaardig kruispunt op. Een bestuurder van rechts geeft met zijn hand aan dat jij mag gaan, maar blijft langzaam rijden. Wat is de juiste beslissing?",
+    "note": "Zelfgetekende junction-situatie; gekoppeld aan vraag 275. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 276,
+    "image": "images/question-276.svg",
+    "alt": "Schematische illustratie bij voorrang, kruispunten en voorrangsregels. De vraag beschrijft: Een kruispunt heeft verkeerslichten. Jij hebt groen, maar een voertuig vóór je staat stil en er is geen ruimte achter het kruispunt. Wat doe je?",
+    "note": "Zelfgetekende junction-situatie; gekoppeld aan vraag 276. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 277,
+    "image": "images/question-277.svg",
+    "alt": "Schematische illustratie bij voorrang, kruispunten en voorrangsregels. De vraag beschrijft: Je komt uit een uitritconstructie met doorlopend trottoir en fietspad. Een auto nadert van rechts op de rijbaan, maar een fietser komt van links op het fietspad. Wie laat je voorgaan?",
+    "note": "Zelfgetekende junction-situatie; gekoppeld aan vraag 277. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 278,
+    "image": "images/question-278.svg",
+    "alt": "Schematische illustratie bij voorrang, kruispunten en voorrangsregels. De vraag beschrijft: Je slaat af terwijl een voetganger parallel aan je rijdt op een fiets. Op dezelfde weg is geen zebrapad. Wat is doorslaggevend?",
+    "note": "Zelfgetekende junction-situatie; gekoppeld aan vraag 278. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 279,
+    "image": "images/question-279.svg",
+    "alt": "Schematische illustratie bij voorrang, kruispunten en voorrangsregels. De vraag beschrijft: Een tram komt op een gelijkwaardig kruispunt van rechts. Tegelijk toont een verkeersregelaar jou een duidelijk stopteken. Wat doe je?",
+    "note": "Zelfgetekende junction-situatie; gekoppeld aan vraag 279. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 280,
+    "image": "images/question-280.svg",
+    "alt": "Schematische illustratie bij voorrang, kruispunten en voorrangsregels. De vraag beschrijft: Bij een kruispunt staan haaientanden vóór een fietsoversteek. De kruisende fietser rijdt rechtdoor; jij slaat rechtsaf naar de weg achter de oversteek. Wat combineer je?",
+    "note": "Zelfgetekende junction-situatie; gekoppeld aan vraag 280. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 281,
+    "image": "images/question-281.svg",
+    "alt": "Schematische illustratie bij snelheid, maximumsnelheden en aangepaste snelheid. De vraag beschrijft: Een maximumsnelheidsbord vermeldt 30 met daaronder de uren 08.00–18.00. Het is 19.00 uur en er staat geen 30-zonebord. Welke conclusie klopt?",
+    "note": "Zelfgetekende speed-situatie; gekoppeld aan vraag 281. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 282,
+    "image": "images/question-282.svg",
+    "alt": "Schematische illustratie bij snelheid, maximumsnelheden en aangepaste snelheid. De vraag beschrijft: Je rijdt op een autoweg met een voertuig dat maximaal 50 km/u kan en mag rijden. Het verkeer staat door drukte tijdelijk 35 km/u. Is dat op zichzelf verboden door de eis voor autowegen?",
+    "note": "Zelfgetekende speed-situatie; gekoppeld aan vraag 282. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 283,
+    "image": "images/question-283.svg",
+    "alt": "Schematische illustratie bij snelheid, maximumsnelheden en aangepaste snelheid. De vraag beschrijft: Je rijdt op een autosnelweg overdag. Er staat een bord met maximum 80. Wat is je hoogste toegestane snelheid?",
+    "note": "Zelfgetekende speed-situatie; gekoppeld aan vraag 283. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 284,
+    "image": "images/question-284.svg",
+    "alt": "Schematische illustratie bij snelheid, maximumsnelheden en aangepaste snelheid. De vraag beschrijft: Je rijdt in een woonerf. Er staat geen apart snelheidsbord. Welke snelheid geldt?",
+    "note": "Zelfgetekende speed-situatie; gekoppeld aan vraag 284. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 285,
+    "image": "images/question-285.svg",
+    "alt": "Schematische illustratie bij snelheid, maximumsnelheden en aangepaste snelheid. De vraag beschrijft: Je nadert een scherpe bocht met een blauw vierkant bord waarop 40 staat. Er staat geen rond rood omrand snelheidsbord. Wat geeft het getal aan?",
+    "note": "Zelfgetekende speed-situatie; gekoppeld aan vraag 285. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 286,
+    "image": "images/question-286.svg",
+    "alt": "Schematische illustratie bij snelheid, maximumsnelheden en aangepaste snelheid. De vraag beschrijft: Een bord geeft 30 km/u aan. Je rijdt op een lege weg en hebt goed zicht. Hoe hard mag je maximaal?",
+    "note": "Zelfgetekende speed-situatie; gekoppeld aan vraag 286. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 287,
+    "image": "images/question-287.svg",
+    "alt": "Schematische illustratie bij snelheid, maximumsnelheden en aangepaste snelheid. De vraag beschrijft: Je voertuig mag en kan 60 km/u rijden. Mag je er een autosnelweg mee gebruiken als je op dat moment door drukte veel langzamer moet rijden?",
+    "note": "Zelfgetekende speed-situatie; gekoppeld aan vraag 287. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 288,
+    "image": "images/question-288.svg",
+    "alt": "Schematische illustratie bij snelheid, maximumsnelheden en aangepaste snelheid. De vraag beschrijft: Je auto trekt een aanhanger met toegestane maximummassa van 3.501 kg op de autosnelweg. Er staat geen lagere limiet aangegeven. Welke voertuiglimiet geldt?",
+    "note": "Zelfgetekende speed-situatie; gekoppeld aan vraag 288. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 289,
+    "image": "images/question-289.svg",
+    "alt": "Schematische illustratie bij snelheid, maximumsnelheden en aangepaste snelheid. De vraag beschrijft: Je auto trekt een aanhanger met toegestane maximummassa van precies 3.500 kg op de autosnelweg. Welke voertuiglimiet geldt?",
+    "note": "Zelfgetekende speed-situatie; gekoppeld aan vraag 289. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 290,
+    "image": "images/question-290.svg",
+    "alt": "Schematische illustratie bij snelheid, maximumsnelheden en aangepaste snelheid. De vraag beschrijft: Op een buitenweg staat een bord 60. Je nadert een kruispunt zonder nieuw snelheidsbord. Wat geldt direct na het kruispunt?",
+    "note": "Zelfgetekende speed-situatie; gekoppeld aan vraag 290. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 291,
+    "image": "images/question-291.svg",
+    "alt": "Schematische illustratie bij snelheid, maximumsnelheden en aangepaste snelheid. De vraag beschrijft: Het regent hard en je rijdt op een snelweg waar 100 km/u is toegestaan. Kun je juridisch altijd 100 blijven rijden?",
+    "note": "Zelfgetekende speed-situatie; gekoppeld aan vraag 291. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 292,
+    "image": "images/question-292.svg",
+    "alt": "Schematische illustratie bij snelheid, maximumsnelheden en aangepaste snelheid. De vraag beschrijft: Je rijdt in een 30-zone en passeert een zijstraat zonder herhalingsbord. Wat geldt voor de zone?",
+    "note": "Zelfgetekende speed-situatie; gekoppeld aan vraag 292. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 293,
+    "image": "images/question-293.svg",
+    "alt": "Schematische illustratie bij snelheid, maximumsnelheden en aangepaste snelheid. De vraag beschrijft: Je rijdt op de snelweg en passeert een elektronisch bord met 60 boven jouw rijstrook. Het bord wordt direct daarna donker. Welke snelheid houd je aan?",
+    "note": "Zelfgetekende speed-situatie; gekoppeld aan vraag 293. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 294,
+    "image": "images/question-294.svg",
+    "alt": "Schematische illustratie bij snelheid, maximumsnelheden en aangepaste snelheid. De vraag beschrijft: Je rijdt met een personenauto op de autosnelweg om 18.59 uur waar de vaste borden geen lagere limiet tonen. Wat bepaalt je maximumsnelheid?",
+    "note": "Zelfgetekende speed-situatie; gekoppeld aan vraag 294. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 295,
+    "image": "images/question-295.svg",
+    "alt": "Schematische illustratie bij snelheid, maximumsnelheden en aangepaste snelheid. De vraag beschrijft: Een vaste snelheidslimiet is 100 km/u. Een matrixbord toont 80 voor jouw rijstrook; een onderbord noemt \"bij gladheid\". Het wegdek is nat maar niet glad. Welke limiet volgt uit deze tekens?",
+    "note": "Zelfgetekende speed-situatie; gekoppeld aan vraag 295. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 296,
+    "image": "images/question-296.svg",
+    "alt": "Schematische illustratie bij snelheid, maximumsnelheden en aangepaste snelheid. De vraag beschrijft: Je rijdt met een caravan. Een bord geeft tijdelijk maximaal 70 km/u aan, terwijl voor jouw combinatie normaal 90 km/u geldt. Wat is de bovengrens?",
+    "note": "Zelfgetekende speed-situatie; gekoppeld aan vraag 296. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 297,
+    "image": "images/question-297.svg",
+    "alt": "Schematische illustratie bij snelheid, maximumsnelheden en aangepaste snelheid. De vraag beschrijft: Je rijdt in dichte mist. De maximumsnelheid is 80, maar je zicht is slechts 35 meter. Wat is de juiste aanpak?",
+    "note": "Zelfgetekende speed-situatie; gekoppeld aan vraag 297. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 298,
+    "image": "images/question-298.svg",
+    "alt": "Schematische illustratie bij snelheid, maximumsnelheden en aangepaste snelheid. De vraag beschrijft: Je rijdt op een snelweg met een limiet van 100. De weg is leeg, maar door aquaplaning begint het stuur licht te worden. Wat is passend?",
+    "note": "Zelfgetekende speed-situatie; gekoppeld aan vraag 298. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 299,
+    "image": "images/question-299.svg",
+    "alt": "Schematische illustratie bij snelheid, maximumsnelheden en aangepaste snelheid. De vraag beschrijft: De maximumsnelheid is 50. Je nadert een onoverzichtelijke bocht met een geparkeerde bestelbus vlak vóór de bocht. Welke uitspraak klopt?",
+    "note": "Zelfgetekende speed-situatie; gekoppeld aan vraag 299. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 300,
+    "image": "images/question-300.svg",
+    "alt": "Schematische illustratie bij snelheid, maximumsnelheden en aangepaste snelheid. De vraag beschrijft: Je rijdt met een aanhanger van precies 3.600 kg op de autosnelweg. Een bord geeft 90 aan. Welke limiet geldt?",
+    "note": "Zelfgetekende speed-situatie; gekoppeld aan vraag 300. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 301,
+    "image": "images/question-301.svg",
+    "alt": "Schematische illustratie bij inhalen, invoegen, uitvoegen en rijstrookwisselingen. De vraag beschrijft: Een bestuurder achter je wil jou inhalen. Wat mag jij tijdens die inhaalmanoeuvre niet doen?",
+    "note": "Zelfgetekende highway-situatie; gekoppeld aan vraag 301. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 302,
+    "image": "images/question-302.svg",
+    "alt": "Schematische illustratie bij inhalen, invoegen, uitvoegen en rijstrookwisselingen. De vraag beschrijft: Je rijdt op de snelweg en wilt naar de linker rijstrook. Wat moet je eerst doen?",
+    "note": "Zelfgetekende highway-situatie; gekoppeld aan vraag 302. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 303,
+    "image": "images/question-303.svg",
+    "alt": "Schematische illustratie bij inhalen, invoegen, uitvoegen en rijstrookwisselingen. De vraag beschrijft: Je rijdt op een invoegstrook. Wanneer ga je de doorgaande rijbaan op?",
+    "note": "Zelfgetekende highway-situatie; gekoppeld aan vraag 303. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 304,
+    "image": "images/question-304.svg",
+    "alt": "Schematische illustratie bij inhalen, invoegen, uitvoegen en rijstrookwisselingen. De vraag beschrijft: Je wilt de snelweg verlaten. Wanneer ga je naar de uitvoegstrook?",
+    "note": "Zelfgetekende highway-situatie; gekoppeld aan vraag 304. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 305,
+    "image": "images/question-305.svg",
+    "alt": "Schematische illustratie bij inhalen, invoegen, uitvoegen en rijstrookwisselingen. De vraag beschrijft: Er staat file op de rechter rijstrook en de linkerrijstrook beweegt sneller. Mag je de rechter rij blijven volgen zonder bewust rechts voorbij te gaan?",
+    "note": "Zelfgetekende highway-situatie; gekoppeld aan vraag 305. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 306,
+    "image": "images/question-306.svg",
+    "alt": "Schematische illustratie bij inhalen, invoegen, uitvoegen en rijstrookwisselingen. De vraag beschrijft: Je rijdt achter een bus die bij een halte passagiers laat in- en uitstappen. Wat doe je bij het passeren?",
+    "note": "Zelfgetekende highway-situatie; gekoppeld aan vraag 306. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 307,
+    "image": "images/question-307.svg",
+    "alt": "Schematische illustratie bij inhalen, invoegen, uitvoegen en rijstrookwisselingen. De vraag beschrijft: Je rijdt achter een auto die duidelijk links voorsorteert om af te slaan. Is rechts passeren toegestaan?",
+    "note": "Zelfgetekende highway-situatie; gekoppeld aan vraag 307. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 308,
+    "image": "images/question-308.svg",
+    "alt": "Schematische illustratie bij inhalen, invoegen, uitvoegen en rijstrookwisselingen. De vraag beschrijft: Je nadert een voetgangersoversteekplaats. Een auto vóór je rijdt langzaam en jij wilt hem inhalen. Wat geldt?",
+    "note": "Zelfgetekende highway-situatie; gekoppeld aan vraag 308. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 309,
+    "image": "images/question-309.svg",
+    "alt": "Schematische illustratie bij inhalen, invoegen, uitvoegen en rijstrookwisselingen. De vraag beschrijft: Je rijdt op een weg met een doorgetrokken middenstreep. De auto voor je rijdt langzaam. Wat doe je?",
+    "note": "Zelfgetekende highway-situatie; gekoppeld aan vraag 309. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 310,
+    "image": "images/question-310.svg",
+    "alt": "Schematische illustratie bij inhalen, invoegen, uitvoegen en rijstrookwisselingen. De vraag beschrijft: Je wilt op een tweebaansweg een vrachtwagen inhalen, maar nadert een onoverzichtelijke bocht. Wat is juist?",
+    "note": "Zelfgetekende highway-situatie; gekoppeld aan vraag 310. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 311,
+    "image": "images/question-311.svg",
+    "alt": "Schematische illustratie bij inhalen, invoegen, uitvoegen en rijstrookwisselingen. De vraag beschrijft: Een voertuig naast je rijdt al op de linker rijstrook. Jij wilt eveneens naar links. Wat is vereist?",
+    "note": "Zelfgetekende highway-situatie; gekoppeld aan vraag 311. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 312,
+    "image": "images/question-312.svg",
+    "alt": "Schematische illustratie bij inhalen, invoegen, uitvoegen en rijstrookwisselingen. De vraag beschrijft: Je nadert een invoegstrook waarop een auto rijdt. Jij rijdt op de doorgaande rijbaan. Moet jij verplicht naar links om ruimte te maken?",
+    "note": "Zelfgetekende highway-situatie; gekoppeld aan vraag 312. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 313,
+    "image": "images/question-313.svg",
+    "alt": "Schematische illustratie bij inhalen, invoegen, uitvoegen en rijstrookwisselingen. De vraag beschrijft: Op een tweebaansweg nadert een tegenligger terwijl jij al naast een ingehaalde auto rijdt. Wat is je eerste prioriteit?",
+    "note": "Zelfgetekende highway-situatie; gekoppeld aan vraag 313. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 314,
+    "image": "images/question-314.svg",
+    "alt": "Schematische illustratie bij inhalen, invoegen, uitvoegen en rijstrookwisselingen. De vraag beschrijft: Je wisselt van rijstrook en geeft richting aan. Een achteropkomende auto versnelt. Wie moet het overige verkeer voor laten gaan?",
+    "note": "Zelfgetekende highway-situatie; gekoppeld aan vraag 314. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 315,
+    "image": "images/question-315.svg",
+    "alt": "Schematische illustratie bij inhalen, invoegen, uitvoegen en rijstrookwisselingen. De vraag beschrijft: Een auto op de rechterstrook geeft richting naar links aan, maar blijft nog op zijn strook. Jij rijdt op de linker strook en nadert hem. Wat doe je?",
+    "note": "Zelfgetekende highway-situatie; gekoppeld aan vraag 315. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 316,
+    "image": "images/question-316.svg",
+    "alt": "Schematische illustratie bij inhalen, invoegen, uitvoegen en rijstrookwisselingen. De vraag beschrijft: Je rijdt op een invoegstrook. Er is een korte opening op de doorgaande rijbaan, maar je rijdt sneller dan het verkeer daarop. Wat doe je?",
+    "note": "Zelfgetekende highway-situatie; gekoppeld aan vraag 316. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 317,
+    "image": "images/question-317.svg",
+    "alt": "Schematische illustratie bij inhalen, invoegen, uitvoegen en rijstrookwisselingen. De vraag beschrijft: Je wilt een vrachtwagen inhalen op de snelweg. Voor je is de linker rijstrook vrij, maar de vrachtwagen rijdt dicht achter een andere vrachtwagen en kan zelf ook naar links gaan. Wat is verstandig?",
+    "note": "Zelfgetekende highway-situatie; gekoppeld aan vraag 317. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 318,
+    "image": "images/question-318.svg",
+    "alt": "Schematische illustratie bij inhalen, invoegen, uitvoegen en rijstrookwisselingen. De vraag beschrijft: Je rijdt achter een file die langzaam vooruitgaat. Links beweegt de file langzamer dan rechts. Je wisselt naar rechts om sneller door te rijden. Welke regel is relevant?",
+    "note": "Zelfgetekende highway-situatie; gekoppeld aan vraag 318. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 319,
+    "image": "images/question-319.svg",
+    "alt": "Schematische illustratie bij inhalen, invoegen, uitvoegen en rijstrookwisselingen. De vraag beschrijft: Je wilt een stilstaande bus bij een halte passeren. Passagiers stappen uit aan de zijde die jij zou gebruiken. Wat doe je?",
+    "note": "Zelfgetekende highway-situatie; gekoppeld aan vraag 319. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  },
+  {
+    "id": 320,
+    "image": "images/question-320.svg",
+    "alt": "Schematische illustratie bij inhalen, invoegen, uitvoegen en rijstrookwisselingen. De vraag beschrijft: Je rijdt op de doorgaande rijbaan en wilt naar een afrit. De uitvoegstrook begint naast je maar er rijdt al een auto op. Wat moet jij doen?",
+    "note": "Zelfgetekende highway-situatie; gekoppeld aan vraag 320. Elementen tonen alleen de situatie uit de vraag en markeren geen juist antwoord."
+  }
+]

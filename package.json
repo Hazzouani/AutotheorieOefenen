@@ -1,0 +1,17 @@
+{
+  "name": "nutheorie-oefenwebsite",
+  "version": "1.1.0",
+  "private": true,
+  "description": "TheorieTrainer: offline oefenwebsite voor het Nederlandse auto-theorie-examen (Rijbewijs B) met 798 vragen en 34 NuTheorie-videolessen.",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "node tools/server.cjs",
+    "start:telefoon": "node tools/server.cjs --lan",
+    "test": "node tests/validate.cjs && node tests/images.cjs",
+    "videos": "python3 tools/videos-manifest.py",
+    "code-bundle": "python3 tools/code-bundle.py"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,18 @@
+# Systeembestanden van macOS en Windows
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Lokale back-ups en oude versies: blijven op je computer, maar gaan niet naar GitHub
+_archief/
+
+# Gegenereerde pakketten (zoals dist/TheorieTrainer.zip); maak ze opnieuw met de opdracht uit de README
+dist/
+
+# Node.js: de website zelf heeft geen pakketten nodig
+node_modules/
+
+# Editors en logbestanden
+.vscode/
+.idea/
+*.log

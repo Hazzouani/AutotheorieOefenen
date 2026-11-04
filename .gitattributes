@@ -1,0 +1,15 @@
+# Tekstbestanden met LF-regeleinden in Git, ongeacht het besturingssysteem.
+* text=auto
+
+# Video's via Git LFS. Zeven video's zijn groter dan 100 MB: GitHub weigert zulke bestanden in gewone Git.
+# Installeer Git LFS één keer ('git lfs install') voordat je de video's toevoegt of de repository kloont.
+Nutheorie_Videos/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
+Nutheorie_Videos/**/*.m4v filter=lfs diff=lfs merge=lfs -text
+Nutheorie_Videos/**/*.webm filter=lfs diff=lfs merge=lfs -text
+
+# Afbeeldingen en archieven zijn binair.
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.webp binary
+*.zip binary
