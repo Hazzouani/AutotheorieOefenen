@@ -75,7 +75,7 @@ De bestanden van de website staan bewust naast `index.html`: zo werkt de site do
 
 ## Op GitHub zetten
 
-De NuTheorie-vragen, -foto's en -video's zijn auteursrechtelijk beschermd materiaal. Gebruik daarom een **privé-repository**.
+
 
 GitHub weigert bestanden groter dan 100 MB, en zeven video's zijn groter (tot 228 MB; samen 2,5 GB). De video's gaan daarom via **Git LFS**; dat staat al ingesteld in `.gitattributes`. Een gratis account heeft 10 GiB LFS-opslag en 10 GiB LFS-downloadverkeer per maand. De video's gebruiken 2,35 GiB opslag, en elke volledige kloon kost ook zo'n 2,35 GiB verkeer: ongeveer vier keer klonen per maand. Bij een budget van € 0 blokkeert GitHub LFS tot de volgende maand als je erover gaat; er worden dan geen kosten gemaakt.
 
